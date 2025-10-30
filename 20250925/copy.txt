@@ -1,0 +1,7 @@
+    这是一个python源文件。
+    用于演示python中的文件复制操作。
+    包含多行python文本：
+    - Line1
+    - Line2
+    - Line3
+    python文件复制示例结束。
